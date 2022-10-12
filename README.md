@@ -1,4 +1,4 @@
-This guided [Datacamp](https://app.datacamp.com/workspace/w/46c5c4a6-6428-418a-9f49-5f4761fd0733) project is about investigating whether the duration of movies on netflix have been declining over the years. 
+This guided [Datacamp](https://app.datacamp.com/workspace/w/46c5c4a6-6428-418a-9f49-5f4761fd0733) project is about investigating whether the duration of movies on netflix have declined over the years. 
 
 A short story......
 
